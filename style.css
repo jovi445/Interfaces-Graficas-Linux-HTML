@@ -4,8 +4,9 @@
     padding: 20px;
     margin: auto;
     max-width: 50rem;
-    color: white;
-    border: 2px dashed white;
+    background-color: white;
+    opacity: 0.5;
+    border: 1px solid black;
     border-radius: 10px;
     
 }
@@ -22,6 +23,6 @@ ul {
 }
 
 hr {
-    border: 2px dashed white;
+    border: 1px solid black;
     border-radius: 10px;
 }
